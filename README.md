@@ -1,8 +1,5 @@
 # LMS
 Learning management system in golang for the purpose of learning a software development process.
-
-[![License: MIT](https://img.shields.io/badge/license-MIT-informational)](https://github.com/cbrom/LMS/blob/master/LICENSE)
-
 ---
 
 ## Features

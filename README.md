@@ -2,7 +2,7 @@
 Learning management system in golang for the purpose of learning a software development process.
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-informational)](https://github.com/cbrom/LMS/blob/master/LICENSE)
-[![Go](https://github.com/cbrom/LMS/workflows/Go/badge.svg?branch=dev)](https://github.com/cbrom/LMS/actions?query=workflow%3A%22Go%22)
+[![Go](https://github.com/haitham911/learn-sys/actions)]
 
 ---
 
